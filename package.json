@@ -1,0 +1,29 @@
+{
+    "name": "odin-restaurant-page",
+    "version": "1.0.0",
+    "description": "",
+    "homepage": "https://github.com/RikiReal/odin-restaurant-page#readme",
+    "bugs": {
+        "url": "https://github.com/RikiReal/odin-restaurant-page/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RikiReal/odin-restaurant-page.git"
+    },
+    "license": "ISC",
+    "author": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "type": "module",
+    "devDependencies": {
+        "css-loader": "^7.1.3",
+        "html-webpack-plugin": "^5.6.6",
+        "style-loader": "^4.0.0",
+        "webpack": "^5.104.1",
+        "webpack-cli": "^6.0.1",
+        "webpack-dev-server": "^5.2.3"
+    }
+}
